@@ -3,10 +3,3 @@ title: Greetings!
 description: >
   <h1><b>My name is Mia Armstrong | Software Quality Engineer</b></h1><br />
   Residing in Portland, Oregon
-author: Mia Armstrong
-
-# --- Nav bar links ---#
-navbar-links:
-  About Me: "aboutme"
-  Projects: "projects"
-  Articles: "articles"
