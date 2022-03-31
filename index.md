@@ -1,6 +1,7 @@
 <h1 align="center">
 Greetings! <br>
-My name is Mia Armstrong - Software Quality Engineer
+My name is Mia Armstrong <br> 
+Software Quality Engineer
 </h1>
 <p align="center">
 Currently residing in Portland, Oregon 
